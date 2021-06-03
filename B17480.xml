@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Barbarous and bloody news from the parish of St. Giles's being a true account of two horrid murders, committed on the bodies of a widow gentlewoman and her neice on Saturday the 13th instant ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17480</idno><idno type="EEBO-CITATION">9713618</idno>
+  <idno type="VID">204486</idno>
+  <idno type="EEBO-PROQUEST">2264201309</idno>
+  
+            <idno type="STC">Wing B685</idno>
+            <idno type="OCLC">09713618</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Barbarous and bloody news from the parish of St. Giles's being a true account of two horrid murders, committed on the bodies of a widow gentlewoman and her neice on Saturday the 13th instant ...</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Hethcock,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Closely bound, some print lost.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="relation">
+            <pb facs="tcp:204486:1"/>
+            <pb facs="tcp:204486:2"/>
+            <head>
+               <hi>Barbarous and Bloody News</hi> FROM THE Parish of St. <hi>GILES'S:</hi> BEING A TRUE ACCOUNT OF Two Horrid Murders, Committed on the Bodies of a <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Vidow Gentlewoman, and her Neice, On <hi>Saturday</hi> the 13<hi>th.</hi> Instant.</head>
+            <head type="sub">
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> most Cruelly cutting their Thoats, and afterwards Robbing them, in a Coffee-House in <hi>Short's Gardens,</hi> between the Hours of Five and Six in the Morning; whose Bodies are still to be seen, as a Dismal Spectacle of Humane Misery.</head>
+            <p>
+               <hi>PLATO,</hi> a Heathen, thought Virtue so aimable in it self, that could it appear clad in Humane shape, the excellency of its Fea<g ref="char:EOLhyphen"/>tures would attract the love and admiration of all its Spectators: and shall we, who are Christians, be less in love with the Beauty <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holiness? Shall we, who live under the Meridian Illustrations of Divine <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>isdom, not see those Glorious Truths which the glimmering light of <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ture He so much revers'd? O shame on that <hi>Egyptian</hi> Darkness which <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ouds our Reason! He liv'd a Divine Heathen, while we live and dye <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ofessed Christians, but in Practice more wretched and inexcusable than <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gans, witness the Avarice and Rapine of some, the Malice and Ambition <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others; in a word, the frequent Murders, and the more close Adulteries; <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bloody Revenge of the enraged B<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avo, and the wanton Embraces of the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tful Paramour, the two last, <hi>viz.</hi> Murder and Adultery, are the crying <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s of this Age: Murder, 'tis true, got the start of Adultery, and was the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st born of its wretched Parent <hi>Cain.</hi> Murder has been always look'd up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as a most detestable Sin in the sight of God and Man, and punished as <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> capital Offence; yet had the Precepts of God or the Laws of Man been <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le to restain the Extravagence of our debauch'd Natures within the limits <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Duty, we shou'd have had not only no Occasion, but no Examples <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> such wicked Wretches, whose Lust, Ambition, or Revenge, has made <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em the unhappy Arguments of humane Misery. Their vicious Courses <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve plung'd them into Crimes which could not be expiated here, but by <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> severest Punishments. The following Relation is very Tragical, and
+<pb n="2" facs="tcp:204486:3"/>the parts of the Actors writ in Characters of Blood; the publishing <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which is not so much designed to divert the Reader with the variety <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> surprizing Circumstances, as to affright him, by the sad Example from th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Commission of that horrid Sin of Murther, of which fincerely to repen<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is highly difficult, but to make satisfaction far impossible. When once th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Golden Bowl</hi> is broke (which the Wise man speaks of, <hi>Ecclesiastes</hi> the 12th.▪ by the Impious hand of some bold Assassin, he fills full the Cup of God<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Indignation against him, which will be a draught more bitter than a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the glorying pleasures Life or Fortune can sweeten with their greate<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> advantages. Humane Laws have provided Shackles and Dungeons, Rack<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Gibbets, not only to punish, but deter such Sanguinary Bravoes, wh<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if they chance (which but rarely happens) to escape the latest han<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Justice, yet are they constantly haunted with the horror of the Crime▪ and antedate the Torments of a future, by the present Hell of an Evi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conscience: But I proceed to the Relation, which is thus.</p>
+            <p>In <hi>Short's-Garden</hi> by <hi>Piccadilly,</hi> near the <hi>Hay-Market,</hi> there lately live<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one Mrs. <hi>Sarah Wilkins,</hi> an Antient Widow-woman, with one <hi>Jane Gi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> her Neice, keeping a <hi>Coffee-house</hi> of good Repute and Trade, and wer<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> supposed to be indifferent well to pass in the world. On <hi>Saturday</hi> th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th. of this Instant <hi>December, Jane Gill</hi> the Neice, coming down Stairs ▪ as her usual custom was, about Five in the Morning, to cleanse the Coffe<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Room, order the Cinders and prepare the Fire, <hi>&amp;c.</hi> some Persons got o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were let into the House, and immediately seized the Maid and cut he<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Throat: then going up two pair of Stairs, where Mrs. <hi>Wilkins</hi> lay, they served her in the like Barbarous manner, taking off four Rings that sh<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> generally wore on her Fingers, which when they had done, they rifle<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the House of all that was valuable and portable, which was to a pretty considerable value, particularly (as a Relation of the Deceased does Re<g ref="char:EOLunhyphen"/>late) there was in a Dressing-Box a Medal of Massy Gold, and severa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Guinnies, and other things of worth. The Murtherers at present, are s<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> far from being discovered, that it's now known how many they were, o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so much as whether they were Men or VVomen, that were the Author<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Horrid Fact, onely some Persons that were up in the Adjacen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houses, heard a knocking at the Coffee-house Door about the hour of fiv<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Morning.</p>
+            <p>These poor Unhappy People have lived in the Parish for several years in very good Credit and Repute, demeaning themselves very Civilly and Honestly to all Persons, upon which account the Neighbours in general, are very sorry for so Cruel and Barbarous a Murther.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. Hethcock,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
